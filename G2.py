@@ -17,10 +17,10 @@ p,t,r=12000,4,3
 si=p*(t*r)/100
 print("SiMPLE INTREST",si)
 
-#program to find Simple intrest
+#program to find compund  intrest
 p,t,r=5000,2,5.4
 a=p*(1+(r/100))*t
-print("SiMPLE INTREST",a)
+print("COMPOUND INTREST",a)
 
 # program to find Swap of number
 p,q=10,5
