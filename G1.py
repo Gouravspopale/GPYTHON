@@ -23,50 +23,50 @@ area=(7*7)
 peri=(2*3.14*7)
 print("\nArea of Circle",area,"\nperi of Circle",peri)
 
-import tkinter as tk
+# import tkinter as tk
 
-main = tk.Tk(className="  #STUDENT ID CARD#")
+# main = tk.Tk(className="  #STUDENT ID CARD#")
 
-main.geometry("600x600")
-main.configure(bg='white')
+# main.geometry("600x600")
+# main.configure(bg='white')
 
-lable1=tk.Label(main,text="NAME:")
-txt1=tk.Entry(main)
+# lable1=tk.Label(main,text="NAME:")
+# txt1=tk.Entry(main)
 
-lable2=tk.Label(main,text="CLASS:")
-txt2=tk.Entry(main)
+# lable2=tk.Label(main,text="CLASS:")
+# txt2=tk.Entry(main)
 
-lable3=tk.Label(main,text="DOB:")
-txt3=tk.Entry(main)
+# lable3=tk.Label(main,text="DOB:")
+# txt3=tk.Entry(main)
 
-lable4=tk.Label(main,text="AREA:")
-txt4=tk.Entry(main)
+# lable4=tk.Label(main,text="AREA:")
+# txt4=tk.Entry(main)
 
-lable5=tk.Label(main,text="PHONE NO:")
-txt5=tk.Entry(main)
+# lable5=tk.Label(main,text="PHONE NO:")
+# txt5=tk.Entry(main)
 
-lable6=tk.Label(main,text="VALIDIYY OF ID CARD:")
-txt6=tk.Entry(main)
-btn6=tk.Button(main,text="submit")
+# lable6=tk.Label(main,text="VALIDIYY OF ID CARD:")
+# txt6=tk.Entry(main)
+# btn6=tk.Button(main,text="submit")
 
 
-lable1.grid(row=0,column=0)
-txt1.grid(row=0,column=1)
+# lable1.grid(row=0,column=0)
+# txt1.grid(row=0,column=1)
 
-lable2.grid(row=1,column=0)
-txt2.grid(row=1,column=1)
+# lable2.grid(row=1,column=0)
+# txt2.grid(row=1,column=1)
 
-lable3.grid(row=2,column=0)
-txt3.grid(row=2,column=1)
+# lable3.grid(row=2,column=0)
+# txt3.grid(row=2,column=1)
 
-lable4.grid(row=3,column=0)
-txt4.grid(row=3,column=1)
+# lable4.grid(row=3,column=0)
+# txt4.grid(row=3,column=1)
 
-lable5.grid(row=4,column=0)
-txt5.grid(row=4,column=1)
+# lable5.grid(row=4,column=0)
+# txt5.grid(row=4,column=1)
 
-lable6.grid(row=5,column=0)
-txt6.grid(row=5,column=1)
-btn6.grid(row=6,column=1)
+# lable6.grid(row=5,column=0)
+# txt6.grid(row=5,column=1)
+# btn6.grid(row=6,column=1)
 
-main.mainloop()
+# main.mainloop()
