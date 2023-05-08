@@ -27,7 +27,7 @@ import tkinter as tk
 
 main = tk.Tk(className="  #STUDENT ID CARD#")
 main.geometry("600x600")
-main.configure(bg='white')
+main.configure(bg='green')
 
 lable1=tk.Label(main,text="NAME:").grid(row=0,column=0)
 txt1=tk.Entry(main).grid(row=0,column=1)
@@ -46,6 +46,7 @@ txt5=tk.Entry(main).grid(row=4,column=1)
 
 lable6=tk.Label(main,text="VALIDIYY OF ID CARD:").grid(row=5,column=0)
 txt6=tk.Entry(main).grid(row=5,column=1)
+
 btn6=tk.Button(main,text="submit").grid(row=6,column=1)
 
 
