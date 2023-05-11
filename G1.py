@@ -27,7 +27,7 @@ import tkinter as tk
 
 main = tk.Tk(className="  #STUDENT ID CARD#")
 main.geometry("600x600")
-main.configure(bg='green')
+main.configure(bg='white')
 
 lable1=tk.Label(main,text="NAME:").grid(row=0,column=0)
 txt1=tk.Entry(main).grid(row=0,column=1)
