@@ -5,7 +5,7 @@
 # a,b=10,5
 # print("Sum Of Two numbers",a+b)
 
-# # python program to print area and perimeter of square
+# # python program to print area and perimeter of square.
 # a=5 
 # area=(a*a)
 # peri=(a*4)
