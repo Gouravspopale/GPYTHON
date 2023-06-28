@@ -1,33 +1,48 @@
-# program to print Even and Odd number
+import tkinter as tk
 
-n=10
-if(n%2==0):
-    print("The Given Value Is Even",n)
-else:
-    print("The Given Value Is Odd",n)
+main = tk.Tk(className="  #STUDENT ID CARD#")
+main.geometry("600x600")
+main.configure(bg='white')
 
-#program to find Positive and Negative values 
+lable1=tk.Label(main,text="NAME:").grid(row=0,column=0)
+txt1=tk.Entry(main).grid(row=0,column=1)
 
-n=7
-if(n>0):
-    print("The Given Value Is  Positive",n)
-else:
-     print("The Given Value Is Negative",n)   
+lable2=tk.Label(main,text="CLASS:").grid(row=1,column=0)
+txt2=tk.Entry(main).grid(row=1,column=1)
 
-# program to find Simple intrest
+lable3=tk.Label(main,text="DOB:").grid(row=2,column=0)
+txt3=tk.Entry(main).grid(row=2,column=1)
 
-p,t,r=12000,4,3
-si=p*(t*r)/100
-print("SiMPLE INTREST",si)
+lable4=tk.Label(main,text="AREA:").grid(row=3,column=0)
+txt4=tk.Entry(main).grid(row=3,column=1)
 
-#program to find compund  intrest
+lable5=tk.Label(main,text="PHONE NO:").grid(row=4,column=0)
+txt5=tk.Entry(main).grid(row=4,column=1)
 
-p,t,r=5000,2,5.4
-a=p*(1+(r/100))*t
-print("COMPOUND INTREST",a)
+lable6=tk.Label(main,text="VALIDIYY OF ID CARD:").grid(row=5,column=0)
+txt6=tk.Entry(main).grid(row=5,column=1)
 
-# program to find Swap of number
+btn6=tk.Button(main,text="submit").grid(row=6,column=1)
 
-p,q=10,5
-p,q=q,p
-print("Swap of p",p)
+
+main.mainloop()
+# lable1.grid(row=0,column=0)
+# txt1.grid(row=0,column=1)
+
+# lable2.grid(row=1,column=0)
+# txt2.grid(row=1,column=1)
+
+# lable3.grid(row=2,column=0)
+# txt3.grid(row=2,column=1)
+
+# lable4.grid(row=3,column=0)
+# txt4.grid(row=3,column=1)
+
+# lable5.grid(row=4,column=0)
+# txt5.grid(row=4,column=1)
+
+# lable6.grid(row=5,column=0)
+# txt6.grid(row=5,column=1)
+# btn6.grid(row=6,column=1)
+
+# main.mainloop()
