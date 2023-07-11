@@ -26,6 +26,8 @@ btn6=tk.Button(main,text="submit").grid(row=6,column=1)
 
 
 main.mainloop()
+
+
 # lable1.grid(row=0,column=0)
 # txt1.grid(row=0,column=1)
 
@@ -46,3 +48,4 @@ main.mainloop()
 # btn6.grid(row=6,column=1)
 
 # main.mainloop()
+
