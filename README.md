@@ -4,8 +4,8 @@ This repository contains basic of python language with all Built in function and
 
 [![](https://img.shields.io/badge/List%20Function-Methods-svg)]()
 
-[![GPLv3 License](https://img.shields.io/badge/Tuple--Function-Methods-red)](https://opensource.org/licenses/)
+[![](https://img.shields.io/badge/Tuple--Function-Methods-red)](https://opensource.org/licenses/)
 
-[![AGPL License](https://img.shields.io/badge/Set--Function-Methods-yellow)](http://www.gnu.org/licenses/agpl-3.0)
+[![](https://img.shields.io/badge/Set--Function-Methods-yellow)](http://www.gnu.org/licenses/agpl-3.0)
 
-[![AGPL License](https://img.shields.io/badge/Dictionary--Function-Methods-cyan)](http://www.gnu.org/licenses/agpl-3.0)
+[![](https://img.shields.io/badge/Dictionary--Function-Methods-cyan)](http://www.gnu.org/licenses/agpl-3.0)
