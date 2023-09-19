@@ -1,7 +1,7 @@
 # python program to print message.
 print(" HI GOURAV WELL COME TO PYTHON PROGRAM")
 
-#python program to print sum of two numbers
+#python program to print sum of two numbers.
 a,b=10,5
 print("Sum Of Two numbers",a+b)
 
