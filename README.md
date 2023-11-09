@@ -8,6 +8,10 @@ This repository contains basic of 🐍python language with all Built_in_function
 
 # simple program to print python operators....
 
+<!-- Python Code -->
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Code" width="50" height="50"/>
+
+
 # And this repository have many csv basic_progarms and some good dataset for beginners to work on csv Topics
 
 [![](https://img.shields.io/badge/-CSV%20__Projects%20-magenta)]()
