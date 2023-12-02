@@ -21,14 +21,3 @@ This repository contains basic of 🐍python language with all Built_in_function
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/14.1.0/octicons.min.css">
-    <title>Git and GitHub Icons</title>
-</head>
-<body>
-
-   
