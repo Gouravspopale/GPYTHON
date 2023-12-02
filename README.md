@@ -26,25 +26,9 @@ This repository contains basic of 🐍python language with all Built_in_function
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/14.1.0/octicons.min.css">
     <title>Git and GitHub Icons</title>
 </head>
 <body>
 
-    <!-- Add your content here -->
-    <h1>Git and GitHub Icons</h1>
-
-    <!-- Git Icon -->
-    <p>
-        Git: <i class="fab fa-git-alt"></i> <!-- Git icon from Font Awesome -->
-    </p>
-
-    <!-- GitHub Icon -->
-    <p>
-        GitHub: <i class="fab fa-github"></i> <!-- GitHub icon from Font Awesome -->
-    </p>
-
-</body>
-</html>
-
-
+   
