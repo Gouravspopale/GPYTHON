@@ -17,7 +17,7 @@ area=(l*b)
 peri=2*(l+b)
 print("\nArea of Rectangle",area,"\nperi of Rectangle",peri)
 
-#python program to print area and perimeter of Circle
+#python program to print area and perimeter of Circle.
 r=7
 area=(7*7)
 peri=(2*3.14*7)
