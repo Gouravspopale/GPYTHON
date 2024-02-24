@@ -51,7 +51,7 @@ p,t,r=5000,2,5.4
 a=p*(1+(r/100))*t
 print("COMPOUND INTREST",a)
 
-# program to find Swap of number
+# program to find swap of two numbers
 
 p,q=10,5
 p,q=q,p
